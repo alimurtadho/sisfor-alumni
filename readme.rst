@@ -68,3 +68,15 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+Untuk Login Administrator : 
+
+> username = admin@admin.com,
+
+> password = password
+
+Untuk Login Member :
+
+> username = user1@user.com,
+
+> password = password
