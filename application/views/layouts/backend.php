@@ -13,7 +13,7 @@ $uri_string = $this->uri->uri_string();
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <meta name="description" content="">
     <meta name="keywords" content="">
-    <meta name="author" content="Andhika Putra Pratama">
+    <meta name="author" content="Ali Murtadho">
     <!-- Favicon-->
     <link rel="icon" href="<?php echo base_url('assets'); ?>/favicon.ico" type="image/x-icon">
 
@@ -238,7 +238,7 @@ $uri_string = $this->uri->uri_string();
             <!-- Footer -->
             <div class="legal">
                 <div class="copyright">
-                    &copy; <?php echo date('Y'); ?> <a href="javascript:void(0);">Andhika Putra Pratama</a>.
+                    &copy; <?php echo date('Y'); ?> <a href="javascript:void(0);">Ali Murtadho</a>.
                 </div>
                 <div class="version">
                     <b>Version: </b> beta

@@ -6,7 +6,7 @@
     <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport">
     <meta name="description" content="">
     <meta name="keywords" content="">
-    <meta name="author" content="Andhika Putra Pratama">
+    <meta name="author" content="Ali Murtadho">
     <title><?php echo $title; ?></title>
     <!-- Favicon-->
     <link rel="icon" href="<?php echo base_url('assets'); ?>/favicon.ico" type="image/x-icon">
